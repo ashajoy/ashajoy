@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ashajoy
-- 👀 I’m interested in Automating manually 
+- 👀 I’m interested and very passionalte about Automation 
 
 
 <!---
