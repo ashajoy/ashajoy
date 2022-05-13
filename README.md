@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @ashajoy
-- 👀 I’m interested and very passionalte about Automation 
+- 👀 I’m interested and very passionate about Automation 
+- Cypress is so far my favorite automation framework 
 
 
 <!---
